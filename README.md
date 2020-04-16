@@ -1,4 +1,4 @@
-# AB617 Data Documentation
+# AB617 Project Documentation
 
 *Draft*
 ## Define the Problem Statement
