@@ -2,7 +2,7 @@
 
 This repository provides detailed documentation of work performed by Air District staff for AB617 communities. Projects are organized into folders, each containing detailed documentation for the steps and procedures implemented in support of each project. 
 
-##Getting Started
+## Getting Started
 
 Use the following template as your README.md for each project.
 
