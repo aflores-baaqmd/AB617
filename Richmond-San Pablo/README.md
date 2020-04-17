@@ -2,7 +2,7 @@
 
 This folder provides detailed data documentation for work performed for the Richmond-San Pablo Community. The Air District identified Richmond-San Pablo as a priority community needing improvements to air quality through our Community Air Risk Evaluation (CARE) program and, more recently, through the AB 617 Community Health Protection Program 
 
-## Define the Problem Statement
+## Problem Statement
 
 The purpose of this project is to centralize all datasets used for Richmond-San Pablo Community Emissions Reduction Plan (CERP). 
 
